@@ -2,7 +2,7 @@
  
 Radar python file has all the functions for operating the radar and capture python file uses them to execute data acquisition task and plot results.
 
-# Collected geture Recognition DATASET Available on KAGGLE. 
+# Collected Gesture Recognition DATASET Available on KAGGLE. 
 https://www.kaggle.com/datasets/ahtshamzafar/tiawr6843aop-gesture-language-data
 
 ## Range Plots:
